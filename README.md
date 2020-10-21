@@ -26,10 +26,10 @@ x86
 - Acquire a working 64 bit project and add a shrotcut for replicating it as well.
 
 ### Shoutouts
-StackOverflow
-Random tech forums from 20 years ago
-Microsoft's batch documentation
-Kip Irvine
+-StackOverflow
+-Random tech forums from 20 years ago
+-Microsoft's batch documentation
+-Kip Irvine
 
 ### MIT License
 
